@@ -1,8 +1,0 @@
-Metric,Score
-ISOT_Fake_News_Dataset_Log Loss,0.002847363120852946
-ISOT_Fake_News_Dataset_Brier Score Loss,0.00022271365820888714
-ISOT_Fake_News_Dataset_Matthews Correlation Coefficient,0.999553716549629
-ISOT_Fake_News_Dataset_Cohen's Kappa Score,0.99955361696518
-ISOT_Fake_News_Dataset_ROC AUC Score,0.999784368602637
-ISOT_Fake_News_Dataset_Accuracy Score,0.9997772828507795
-ISOT_Fake_News_Dataset_F1 Score,0.999766518795237

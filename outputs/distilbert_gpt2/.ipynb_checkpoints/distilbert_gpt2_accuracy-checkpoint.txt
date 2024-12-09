@@ -1,0 +1,2 @@
+Real Accuracy count: 2/2
+Fake Accuracy count: 2/2

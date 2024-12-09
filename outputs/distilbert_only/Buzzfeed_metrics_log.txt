@@ -1,0 +1,6 @@
+Buzzfeed_Log Loss: 0.9132
+Buzzfeed_Brier Score Loss: 0.2466
+Buzzfeed_Matthews Correlation Coefficient: 0.4330
+Buzzfeed_Cohen's Kappa Score: 0.3956
+Buzzfeed_ROC AUC Score: 0.8530
+Buzzfeed_Accuracy Score: 0.6978
