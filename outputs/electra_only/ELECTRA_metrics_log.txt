@@ -1,0 +1,15 @@
+              precision    recall  f1-score   support
+
+        Fake       0.96      0.88      0.92       744
+        Real       0.88      0.96      0.92       703
+
+    accuracy                           0.92      1447
+   macro avg       0.92      0.92      0.92      1447
+weighted avg       0.92      0.92      0.92      1447
+Log Loss: 0.2501
+Brier Score Loss: 0.0647
+Matthews Correlation Coefficient: 0.8460
+Cohen's Kappa Score: 0.8427
+ROC AUC Score: 0.9705
+Accuracy: 0.9212
+F1 Score: 0.9224

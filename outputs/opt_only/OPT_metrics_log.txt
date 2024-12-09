@@ -1,0 +1,7 @@
+Log Loss: 0.1826
+Brier Score Loss: 0.0496
+Matthews Correlation Coefficient: 0.8876
+Cohen's Kappa Score: 0.8867
+ROC AUC Score: 0.9887
+Accuracy: 0.9433
+F1 Score: 0.9430
